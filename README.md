@@ -2,6 +2,8 @@
 Question 1
 ![question1](https://github.com/user-attachments/assets/5e42d411-55c9-472d-8b86-c8474d427040)
 Question 2
+![question2](https://github.com/user-attachments/assets/4652382b-db6f-4194-840c-d9e1078f316e)
+
 Question 3
 ![question3](https://github.com/user-attachments/assets/cebe0cd2-fc61-49d8-9876-4ccac20b27b9)
 Question 4
