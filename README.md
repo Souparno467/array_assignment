@@ -10,6 +10,8 @@ Question 4
 ![question4](https://github.com/user-attachments/assets/0578d132-ef9e-4808-8cca-e180c75e1d08)
 Question 5
 ![question5](https://github.com/user-attachments/assets/e18d056c-90eb-4a75-aef7-f36ff3ce726d)
+
+
 Question 6
 ![question6](https://github.com/user-attachments/assets/cc6b2854-b305-4b28-b3a9-cdb3dba22b1e)
 
