@@ -11,7 +11,8 @@ Question 4
 Question 5
 ![question5](https://github.com/user-attachments/assets/e18d056c-90eb-4a75-aef7-f36ff3ce726d)
 Question 6
-![question6](https://github.com/user-attachments/assets/c3d74ae5-dae9-445f-9932-f3673212d57c)
+![question6](https://github.com/user-attachments/assets/cc6b2854-b305-4b28-b3a9-cdb3dba22b1e)
+
 Question 7
 ![question7](https://github.com/user-attachments/assets/587c1cb9-f406-491c-96c0-3290dda15ba0)
 
